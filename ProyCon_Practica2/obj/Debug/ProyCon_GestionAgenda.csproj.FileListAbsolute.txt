@@ -1,0 +1,21 @@
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe.config
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.pdb
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csprojAssemblyReference.cache
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csproj.CoreCompileInputs.cache
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.exe
+C:\Users\VS-SabPM\Desktop\Practica2\ProyCon_Practica2\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.pdb
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe.config
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.exe
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.pdb
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.pdb
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\SEMANA19\Practica2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe.config
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.exe
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\bin\Debug\ProyCon_Practica2.pdb
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_GestionAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.exe
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\PracticaCalificada2\PA2_Juan Daniel Perez Soto\ProyCon_Practica2\obj\Debug\ProyCon_Practica2.pdb
